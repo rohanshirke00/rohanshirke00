@@ -18,9 +18,14 @@
   </td>
   </tr>
 </table>
-
-## About Myself
-
+<br>
+<table>
+  <tr>
+    <th><h1>🙋‍♂️ About Me</h1></th>
+    <th><h1>🚀 Languages and Tools:</h1></th>
+  </tr>
+  <tr>
+    <td>
 - 🔭 I’m currently working on project based on **[MERN technology]**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
@@ -32,10 +37,8 @@
 - 📫 How to reach me **[Email](rohanshirke2k@gmail.com)**
 
 - ⚡ Fun fact **You are viewing my profile.**
-
-
-<center>
-  <h1>Languages and Tools :</h1>
+    </td>
+    <td>
   <table>
      <tr>
       <td>
@@ -126,7 +129,9 @@
       </td>
     </tr>
   </table>
-</center>
+  </td>
+  </tr>
+</table>
 
 
 ## 📊 My Github Stats
