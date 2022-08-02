@@ -131,10 +131,9 @@
 
 ## 📊 My Github Stats
 
-   <a href="https://github.com/rohanshirke00/github-readme-stats"><img alt="Rohan Shirke's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohanshirke00&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/rohanshirke00/github-readme-stats"><img alt="Rohan Shirke's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanshirke00&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rohanshirke00&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanshirke00&langs_count=5&theme=tokyonight)]()
   <br/>
-<br/>
 
 <a href="https://github.com/rohanshirke00/github-readme-activity-graph"><img alt="Rohan Shirke's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rohanshirke00&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
