@@ -92,7 +92,7 @@
       </td>
     <td>  
       <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="80" height="80"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"  alt="express" width="80" height="80"/> 
       </a>
     </td>
     <td>
@@ -137,9 +137,9 @@
 ## 📊 My Github Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rohanshirke00&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanshirke00&langs_count=5&theme=tokyonight)]()
-  <br/>
 
-<a href="https://github.com/rohanshirke00/github-readme-activity-graph"><img alt="Rohan Shirke's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rohanshirke00&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanshirke00&langs_count=5&theme=tokyonight)]()
+
+[![Rohan Shirke's Activity](https://activity-graph.herokuapp.com/graph?username=rohanshirke00&bg_color=000000&color=00ff00&line=1e00ff&point=6d8863&area=true&hide_border=true)](https://github.com/rohanshirke00/github-readme-activity-graph)
 
 <br/>
