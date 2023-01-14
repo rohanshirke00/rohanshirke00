@@ -134,12 +134,13 @@
 </table>
 
 
-## 📊 My Github Stats
+
+<!-- ## 📊 My Github Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rohanshirke00&count_private=true&theme=tokyonight&showicons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanshirke00&langs_count=5&theme=tokyonight)]()
 
-[![Rohan Shirke's Activity](https://activity-graph.herokuapp.com/graph?username=rohanshirke00&bg_color=000000&color=00ff00&line=1e00ff&point=6d8863&area=true&hide_border=true)](https://github.com/rohanshirke00/github-readme-activity-graph)
+[![Rohan Shirke's Activity](https://activity-graph.herokuapp.com/graph?username=rohanshirke00&bg_color=000000&color=00ff00&line=1e00ff&point=6d8863&area=true&hide_border=true)](https://github.com/rohanshirke00/github-readme-activity-graph) -->
 
 <br/>
