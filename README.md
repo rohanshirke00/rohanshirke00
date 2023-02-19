@@ -11,7 +11,6 @@
 <div>
   <ul>
     <li>:school: I am a final year student of Information Technology at Mumbai University. </li>
-    <li>🧑‍💻 I love working on android applications using java.</li>
     <li>💡 I do problem-solving on LeetCode.</li>
   </ul>
 </div>
